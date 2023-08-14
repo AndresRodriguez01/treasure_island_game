@@ -1,4 +1,4 @@
-#Global variables declaration
+#Global variables 
 ISLAND_ASCII_ART = '''                                          ..:::::..
                                               ^~^^^^~!!7?J?7!^.
                                               .:^^^:..:^..^!?YY?~.
