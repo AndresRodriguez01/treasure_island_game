@@ -34,10 +34,6 @@ If you wish to contribute code to the Treasure Island Game project, please follo
 
 9. Once your PR is approved, it will be merged into the main repository, and your contributions will become part of the project.
 
-## Code of Conduct
-
-We expect all contributors to follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive and inclusive community environment. Please be respectful and considerate in all interactions.
-
 ## License
 
 By contributing to the Treasure Island Game project, you agree that your contributions will be licensed under the [MIT License](LICENSE).
