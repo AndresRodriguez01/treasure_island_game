@@ -6,7 +6,7 @@ Welcome to the Treasure Island Game repository! We appreciate your interest in c
 
 There are several ways you can contribute to the Treasure Island Game project:
 
-1. **Bug Reports**: If you encounter any bugs or issues while playing the game, please report them by [opening a new issue](https://github.com/AndresRodriguez01/treasure-island-game/issues) on GitHub. Be sure to provide detailed steps to reproduce the issue.
+1. **Bug Reports**: If you encounter any bugs or issues while playing the game, please report them by [opening a new issue](https://github.com/AndresRodriguez01/treasure_island_game/issues/new) on GitHub. Be sure to provide detailed steps to reproduce the issue.
 
 2. **Feature Requests**: If you have any ideas for new features or improvements to the game, feel free to [create a new issue](https://github.com/AndresRodriguez01/treasure_island_game/issues/new) with the "feature request" label. Describe the feature and why you think it would be beneficial.
 
