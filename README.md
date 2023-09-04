@@ -32,7 +32,7 @@ Enjoy the adventure, and may you discover the treasure hidden on the mysterious 
 
 ## Credits
 
-This game was created by Andres Mauricio Rodriguez Grisales as a fun project to learn Python programming. Feel free to modify, share, and use the code as you wish.
+This game was created by Andres Mauricio Rodriguez Grisales as a fun project to practice Python programming. Feel free to modify, share, and use the code as you wish.
 
 ## License
 
